@@ -8,7 +8,7 @@
 - 📫 How to reach me **elisa.leroy0709@gmail.com**
 
 <h4 align="left">Connect with me :</h4> <p align="left">
-<a href="https://linkedin.com/in/elisa leroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elisa leroy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elisa-leroy-6b352a2a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elisa leroy" height="30" width="40" /></a>
 </p>
 
 
@@ -46,5 +46,50 @@
 ![UX/UI](https://img.shields.io/badge/UX%2FUI-3DDC84?style=for-the-badge&logo=material-design&logoColor=white)
 
 <h2 align="left">My projects</h2>
+
+### 🎮 **[Java - Role playing game](https://lien-vers-ton-jeu.com](https://github.com/Elisa0709/Roll-playing-game/tree/master))** 🎮
+### 🟩 **[Vue 3 - Spirulina shop ](https://lien-vers-ton-jeu.com](https://github.com/Elisa0709/Spirulina_shop))** 🟩
+### 🍉 **[Laravel - Fruits shop ](https://github.com/Elisa0709/Fruits-shop)** 🍌
+### 🍂 **[JavaScript - Chifoumi ](https://github.com/Elisa0709/Chifoumi)** ✂️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

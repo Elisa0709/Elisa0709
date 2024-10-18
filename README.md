@@ -47,8 +47,8 @@
 
 <h2 align="left">My projects</h2>
 
-### 🎮 **[Java - Role playing game](https://lien-vers-ton-jeu.com](https://github.com/Elisa0709/Roll-playing-game/tree/master))** 🎮
-### 🟩 **[Vue 3 - Spirulina shop ](https://lien-vers-ton-jeu.com](https://github.com/Elisa0709/Spirulina_shop))** 🟩
+### 🎮 **[Java - Role playing game](https://github.com/Elisa0709/Roll-playing-game/tree/master)** 🎮
+### 🟩 **[Vue 3 - Spirulina shop ](https://github.com/Elisa0709/Spirulina_shop)** 🟩
 ### 🍉 **[Laravel - Fruits shop ](https://github.com/Elisa0709/Fruits-shop)** 🍌
 ### 🍂 **[JavaScript - Chifoumi ](https://github.com/Elisa0709/Chifoumi)** ✂️
 

@@ -48,8 +48,9 @@
 <h2 align="left">My projects</h2>
 
 
-#### 🌿 **[PORTFOLIO](https://github.com/Elisa0709/Portfolio)** 🌿  /!\ Personnal project in progress /!\
+#### 🌻 **[PORTFOLIO](https://github.com/Elisa0709/Portfolio)** 🌻  /!\ Personnal project in progress /!\
 ### 🎮 **[Java - Role playing game](https://github.com/Elisa0709/Roll-playing-game/tree/master)** 🎮
+### 🌍 **[Laravel - Fruits shop ](https://github.com/Elisa0709/DataManipulation)** 🌍
 ### 🟩 **[Vue 3 - Spirulina shop ](https://github.com/Elisa0709/Spirulina_shop)** 🟩
 ### 🍉 **[Laravel - Fruits shop ](https://github.com/Elisa0709/Fruits-shop)** 🍌
 ### 🍂 **[JavaScript - Chifoumi ](https://github.com/Elisa0709/Chifoumi)** ✂️

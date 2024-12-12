@@ -43,6 +43,9 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### Process & others
+![Architecture](https://img.shields.io/badge/Architecture-007ACC?style=for-the-badge&logo=architectural&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FF9A00?style=for-the-badge&logo=design-patterns&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-00BFFF?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ![Tests Unitaires](https://img.shields.io/badge/Tests%20Unitaires-FF9A00?style=for-the-badge&logo=testing-library&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-007ACC?style=for-the-badge&logo=testcafe&logoColor=white)

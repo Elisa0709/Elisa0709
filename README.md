@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning **Java and Spring**
-- 📫 How to reach me **elisa.leroy0709@gmail.com**
+- 📫 How to contact me **elisa.leroy0709@gmail.com**
 
 <h4 align="left">Connect with me :</h4> <p align="left">
 <a href="https://www.linkedin.com/in/elisa-leroy-6b352a2a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elisa leroy" height="30" width="40" /></a>

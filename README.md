@@ -1,12 +1,12 @@
 <h1 align="left">Hello 👋, I'm Elisa</h1>
-<h3 align="left">Following a career change, I'm studying at the Campus Numérique in Grenoble to become an Applications Designer and Developer. I'm looking for a 12-month internship starting at the beginning of 2025.</h3>
+<h3 align="left">Currently on a career change to become a Full-Stack Developer, I'm studying at the Campus Numérique in Grenoble to obtain a Bachelor’s degree as an Application Developer and I’m seeking to join a company on a 12-month work-study placement.</h3>
 
 
 
 
 - 🌱 I’m currently learning **Java and Spring**
-- 📫 How to contact me **elisa.leroy0709@gmail.com**
-- My portfolio www.elisaleroy.com
+- 📫 How to reach me **elisa.leroy0709@gmail.com**
+- 🖱️ My portfolio **www.elisaleroy.com**
 
 <h4 align="left">Connect with me :</h4> <p align="left">
 <a href="https://www.linkedin.com/in/elisa-leroy-6b352a2a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elisa leroy" height="30" width="40" /></a>

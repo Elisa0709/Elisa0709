@@ -55,7 +55,7 @@
 <h2 align="left">My projects</h2>
 
 
-#### 🌻 **[PORTFOLIO](https://github.com/Elisa0709/Portfolio)** 🌻  
+### 🌻 **[PORTFOLIO](https://github.com/Elisa0709/Portfolio)** 🌻  
 ### ⭘❌⭘ **[Java - Role playing game](https://github.com/Elisa0709/BoardGame_application)** ⭘❌⭘
 ### 🎮 **[Java - Role playing game](https://github.com/Elisa0709/Roll-playing-game/tree/master)** 🎮
 ### 🌍 **[JavaScript - Data manipulation ](https://github.com/Elisa0709/DataManipulation)** 🌍

@@ -56,8 +56,8 @@
 
 
 ### 🌻 **[PORTFOLIO](https://github.com/Elisa0709/Portfolio)** 🌻  
-### 🌱 **[API REST SpringBoot - Role playing game](https://github.com/Elisa0709/Square-game_API)** 🌱
-### ⭘❌⭘ **[Java - Role playing game](https://github.com/Elisa0709/BoardGame_application)** ⭘❌⭘
+### 🌱 **[API REST SpringBoot - Square games](https://github.com/Elisa0709/Square-game_API)** 🌱
+### ⭘❌⭘ **[Java - Square games](https://github.com/Elisa0709/BoardGame_application)** ⭘❌⭘
 ### 🎮 **[Java - Role playing game](https://github.com/Elisa0709/Roll-playing-game/tree/master)** 🎮
 ### 🌍 **[JavaScript - Data manipulation ](https://github.com/Elisa0709/DataManipulation)** 🌍
 ### 🟩 **[Vue 3 - Spirulina shop ](https://github.com/Elisa0709/Spirulina_shop)** 🟩

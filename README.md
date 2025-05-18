@@ -1,10 +1,8 @@
 <h1 align="left">Hello 🌻, I'm Elisa</h1>
-<h3 align="left">Currently on a career change to become a Full-Stack Developer, I'm studying at the Campus Numérique in Grenoble to obtain a Bachelor’s degree as an Application Developer and I’m seeking to join a company on a 12-month work-study placement.</h3>
+<h3 align="left">Currently on a career change to become a Full-Stack Developer, I'm studying at the Campus Numérique in Grenoble to obtain a Bachelor’s degree as an Application Developer and I’m also working for Halias Technologie.</h3>
 
 
 
-
-- 🌱 I’m currently learning **Java and Spring**
 - 📫 How to reach me **elisa.leroy0709@gmail.com**
 - 🖱️ My portfolio **www.elisaleroy.com**
 
